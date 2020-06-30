@@ -1,0 +1,130 @@
+ol {
+    list-style-type: lower-roman;}
+    ul {
+        width: 150px;}
+        li {
+        margin: 10px;}
+        .i-point{
+        list-style-position: outside;}
+        .s-point {
+        list-style-position: inside;}
+        
+         .one-1{
+            list-style: inside circle;
+            width: 300px;}
+            li {
+            margin: 10px 0px 0px 0px;}
+            body {
+                font-family: Arial, Verdana, sans-serif;
+                color: #111111;}
+                table {
+                width: 600px;}
+                th, td {
+                padding: 7px 10px 10px 10px;}
+                th {
+                text-transform: uppercase;
+                letter-spacing: 0.1em;
+                font-size: 90%;
+                border-bottom: 2px solid #111111;
+                border-top: 1px solid #999;
+                text-align: left;}
+                tr.even {
+                background-color: #efefef;}
+                tr:hover {
+                background-color: #c3e6e5;}
+                .money {
+                text-align: right;}
+                td {
+                    border: 1px solid #0088dd;
+                    padding: 15px;}
+                    table.one {
+                    empty-cells: show;}
+                    table.two {
+                    empty-cells: hide;}
+
+
+                   .p-1{
+                    overflow: hidden;
+                   }
+                   .p-2{
+                       overflow: scroll;
+                   }
+.p-3{
+    overflow: hidden;
+}
+
+
+input {
+    font-size: 120%;
+    color: #5a5854;
+    background-color: #f2f2f2;
+    border: 1px solid #bdbdbd;
+    border-radius: 5px;
+    padding: 5px 5px 5px 30px;
+    background-repeat: no-repeat;
+    background-position: 8px 9px;
+    display: block;
+    margin-bottom: 10px;}
+    input:focus {
+    background-color: #ffffff;
+    border: 1px solid #b1e1e4;}
+    input#email {
+    background-image: url("images/email.png");}
+    input#twitter {
+    background-image: url("images/twitter.png");}
+    input#web {
+    background-image: url("images/web.png");}
+
+    .btn-1{
+        <style type="text/css">
+            -moz-box-shadow:inset 0px -3px 7px 0px #29bbff;
+            -webkit-box-shadow:inset 0px -3px 7px 0px #29bbff;
+            box-shadow:inset 0px -3px 7px 0px #29bbff;
+            background:-( linear, left top, left bottom, color-stop(0.05, #2dabf9), color-stop(1, #0688fa) );
+            background:-moz-linear-gradient( center top, #2dabf9 5%, #0688fa 100% );
+            filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#2dabf9', endColorstr='#0688fa');
+            background-color:#2dabf9;
+            -webkit-border-top-left-radius:3px;
+            -moz-border-radius-topleft:3px;
+            border-top-left-radius:3px;
+            -webkit-border-top-right-radius:3px;
+            -moz-border-radius-topright:3px;
+            border-top-right-radius:3px;
+            -webkit-border-bottom-right-radius:3px;
+            -moz-border-radius-bottomright:3px;
+            border-bottom-right-radius:3px;
+            -webkit-border-bottom-left-radius:3px;
+            -moz-border-radius-bottomleft:3px;
+            border-bottom-left-radius:3px;
+        text-indent:0;
+            border:1px solid #0b0e07;
+            display:inline-block;
+            color:#ffffff;
+            font-family:Trebuchet MS;
+            font-size:15px;
+            font-weight:bold;
+            font-style:normal;
+        height:50px;
+            line-height:50px;
+        width:140px;
+            text-decoration:none;
+            text-align:center;
+            text-shadow:0px 1px 0px #263666;
+        }.contact byn:hover {
+            background:-( linear, left top, left bottom, color-stop(0.05, #0688fa), color-stop(1, #2dabf9) );
+            background:-moz-linear-gradient( center top, #0688fa 5%, #2dabf9 100% );
+            filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#0688fa', endColorstr='#2dabf9');
+            background-color : black;
+        }.contact byn:active {
+            position:relative;
+            top:1px;
+        }
+         
+
+
+
+
+
+
+
+

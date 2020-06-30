@@ -1,0 +1,76 @@
+body{
+    background-color: khaki;
+}
+h1{
+    color: darkslategrey;
+    font-family: 'Dancing Script', cursive;
+    font-size:50px;
+    font-weight: bolder;
+}
+
+p{
+    font-style: italic;
+}
+h1 {
+    text-transform: uppercase;}
+    h2 {
+    text-transform: lowercase;}
+    .father {
+    text-transform: capitalize;
+        text-decoration: underline;
+    }
+        a {
+        text-decoration: none;}
+
+        h1, h2 {
+            text-transform: uppercase;
+            letter-spacing: 0.2em;}
+            .father {
+            font-weight: bold;
+            word-spacing: 1em;}
+            h1 {
+                text-align: left;}
+                p {
+                text-align: justify;}
+                .father {
+                text-align: right;}
+
+            
+                
+                    .father {
+                    text-indent: 20px;}
+                    
+                  
+
+
+
+
+
+
+                    a:link {
+                        color: deeppink;
+                        text-decoration: none;}
+                    
+                        a:hover {
+                        color: deeppink;
+                        text-decoration: underline;}
+                        a:active {
+                        color: darkcyan;}input {
+                            padding: 6px 12px 6px 12px;
+                            border: 1px solid #665544;
+                            colo:red;}
+                            input.submit:hover {
+                            background-color: red;}
+                            input.submit:active {
+                            background-color: chocolate;}
+                            input.text {
+                            color: red;}
+                            input.text:focus {
+                            color: #665544;
+                            }
+
+
+
+
+
+
